@@ -1,5 +1,4 @@
-﻿namespace HackerRank_Solutions;
-
+﻿namespace HackerRank_Solutions.Problems.Basic;
 public class MiniMaxSum
 {
     public MiniMaxSum()
