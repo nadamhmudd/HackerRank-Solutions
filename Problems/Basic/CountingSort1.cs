@@ -16,7 +16,7 @@
         {
             int[] countingArr = new int[100];
 
-            for(int i = 0; i < arr.Count; i++)
+            for(int i = 0; i < arr?.Count; i++)
                 countingArr[arr[i]]++;
 
             return countingArr.ToList();
