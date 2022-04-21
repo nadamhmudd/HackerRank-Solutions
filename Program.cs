@@ -5,6 +5,6 @@ public class Program
 {
     static void Main(string[] args)
     {
-        GridChallenge g = new ();
+        Staircase g = new ();
     }
 }
